@@ -1,0 +1,5 @@
+#!/bin/sh
+#
+# Added equk 12-07-2015
+#
+/usr/sbin/modprobe ath9k
