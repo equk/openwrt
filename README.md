@@ -7,7 +7,7 @@
 
 This is a small repo for my OpenWrt patches.
 
-I have been using openwrt on various routers since the Linksys WRT54GS (White Russian 2006)
+*I have been using openwrt on various routers since the Linksys WRT54GS (White Russian 2006)*
 
 ## Current Routers
 
@@ -16,9 +16,9 @@ I have been using openwrt on various routers since the Linksys WRT54GS (White Ru
 * usb power patch
 * ath9k init script
 
-*usb port patch:* fixes usb to allow use of usb devices (used for storage)
+**usb patch:** fixes usb to allow use of usb devices (used for storage)
 
-*ath9k init script:* init usb modules before attempting root mount, allowing the use of overlay or root pivot (extroot)
+**ath9k init script:** init usb modules before attempting root mount, allowing the use of overlay or root pivot (extroot)
 
 More info on extroot can be found on the openwrt wiki:
 
@@ -26,7 +26,7 @@ More info on extroot can be found on the openwrt wiki:
 
 not working:
 
-* buttons (wifi + wps) but who really uses those?
+* buttons (wifi + wps) *who really uses those?*
 * usb led (not really that beneficial)
 
 Example setup of USB /layout pivot on a 8GB USB 2.0 flash drive
@@ -39,6 +39,6 @@ Example setup of USB /layout pivot on a 8GB USB 2.0 flash drive
 
 Will possibly upload patches relating to this router in future.
 
-For now here is my diagram for USB mod + serial connection.
+For now here is my diagram for USB mod + serial connection. [from 2011](http://equk.tumblr.com/post/9299251212/tp-link-tl-841nd-reference-usb-ttl-serial)
 
 [https://equk.co.uk/content/images/2015/04/tplink_841nd_ref.jpg](https://equk.co.uk/content/images/2015/04/tplink_841nd_ref.jpg)
