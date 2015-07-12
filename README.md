@@ -35,7 +35,7 @@ Example setup of USB /layout pivot on a 8GB USB 2.0 flash drive
 * /dev/sda2     524MB   SWAP
 * /dev/sda3     5.4GB   EXT4    /data
 
-### TP-LINK TP-841ND
+### TP-LINK TP-WR841ND
 
 Will possibly upload patches relating to this router in future.
 
