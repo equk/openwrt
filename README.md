@@ -27,7 +27,6 @@ More info on extroot can be found on the openwrt wiki:
 not working:
 
 * buttons (wifi + wps) *who really uses those?*
-* usb led (not really that beneficial)
 
 Example setup of USB /layout pivot on a 8GB USB 2.0 flash drive
 
