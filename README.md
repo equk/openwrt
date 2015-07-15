@@ -30,9 +30,9 @@ not working:
 
 Example setup of USB /layout pivot on a 8GB USB 2.0 flash drive
 
-* /dev/sda1     1.3GB   EXT4    /overlay
-* /dev/sda2     524MB   SWAP
-* /dev/sda3     5.4GB   EXT4    /data
+     /dev/sda1     1.3GB   EXT4    /overlay
+     /dev/sda2     524MB   SWAP
+     /dev/sda3     5.4GB   EXT4    /data
 
 ### TP-LINK TP-WR841ND
 
